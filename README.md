@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ojalmaps
 - 👀 I’m interested in open source collaboration in python or java. 
-- 🌱 I’m currently learning reactJS
+- 🌱 I’m currently learning data analysis.
 - 💞️ I’m looking to collaborate on any project!
 - 📫 How to reach me ojalmaps@gmail.com
 
